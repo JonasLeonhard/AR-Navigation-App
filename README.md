@@ -8,7 +8,7 @@ Unity C# and Google 'AR-Core'
 ![Mask](../master/git-readme/Screen02.png)
 -We 3d modeled the 'A'-building of 'Hochschule Flensburg'. 
 ![Mask](../master/git-readme/Screen03.png)
--By scanning the marker we synchronize the real position of the user with the position of within the 3d model of the building, the 3d camera keeps in sync with the phones rotation/position(through acceleration)
+-By scanning the marker we synchronize the real position of the user with the position within the 3D model of the building, the 3d camera keeps in sync with the phones rotation/position(through acceleration)
 ![Mask](../master/git-readme/Screen04.png)
 -You can pick a prebuild destination within the building, the app calculates the fastest route to your destination in the building.
 ![Mask](../master/git-readme/Screen05.png)
